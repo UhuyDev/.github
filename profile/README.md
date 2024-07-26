@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-Welcome to "Foodricion," ...
+Welcome to "Foodricion". mobile app designed for real-time nutrition analysis using a smartphone camera. It employs machine learning to identify food items and their nutritional content from images, natural language processing for chatbot features, and data mining for personalized nutrition recommendations. This technology-driven approach ensures accurate and tailored nutritional insights for users on the go.
 <br>
 ## Explore Project Code
 
@@ -46,7 +46,7 @@ Welcome to "Foodricion," ...
     <tr>
       <td>2107412042</td>
       <td>Dava Alif Rahman David</td>
-      <td>Machine Learning</td>
+      <td>Machine Learning Development</td>
       <td>
         <a href="https://www.linkedin.com/in/dava-ard"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href="https://github.com/dvaled"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
