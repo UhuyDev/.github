@@ -1,7 +1,7 @@
 # Foodricion
 
 <div align="center">
-  <img height="" src="https://raw.githubusercontent.com/UhuyDev/.github/main/profile/head?raw=true"  />
+  <img height="" src="https://raw.githubusercontent.com/UhuyDev/.github/main/profile/head.jpg?raw=true"  />
 </div>
 
 ## Project Overview
