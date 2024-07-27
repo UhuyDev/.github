@@ -38,7 +38,7 @@ Welcome to "Foodricion". mobile app designed for real-time nutrition analysis us
       <td>Ahmad Maulana</td>
       <td>Mobile Development</td>
       <td>
-        <a href="https://www.linkedin.com/in/Ahmad Maulana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/lanz56/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href="https://github.com/Lanzkuy"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
       </td>
       <td>Politeknik Negeri Jakarta</td>
